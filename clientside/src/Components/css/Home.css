@@ -1,0 +1,29 @@
+.home-container {
+  min-height: 100vh;
+  background-color: #f8f8f8;
+}
+
+.content {
+  padding-top: 100px; /* To account for the fixed navbar */
+  padding-bottom: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.placeholder-content {
+  text-align: center;
+  padding: 3rem 0;
+}
+
+.placeholder-content h1 {
+  color: #333;
+  margin-bottom: 1rem;
+  font-size: 2.5rem;
+}
+
+.placeholder-content p {
+  color: #666;
+  font-size: 1.2rem;
+}
